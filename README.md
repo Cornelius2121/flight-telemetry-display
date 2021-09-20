@@ -81,6 +81,3 @@ Once python is installed, you need to install pip to install the packages that h
 Installing pip can be completed by typing `py install pip`
 
 Further troubleshooting can be found [here](https://pip.pypa.io/en/stable/installing/)
-
-# Test edit
-
