@@ -5,7 +5,7 @@ As the name implies this is a tool for displaying and replaying collected from o
 ## Installation
 
 1. Download and install the latest version of python. It can be found [here](https://www.python.org/downloads/). 
-2. Open your terminal of choice \(Command Prompt, Powershell etc.\) and run: `pip install asyncio websockets pyserial aiohttp aiohttp-jinja2 pyinstaller psutil pypng pyqrcode`
+2. Open your terminal of choice \(Command Prompt, Powershell etc.\) and run: `pip install -r requirements.txt`
 3. Get a copy of the project ethier using git tool or download directly of the repo website.
 4. If you've download the zip file extract it and open the terminal in the extracted folder directory.
 5. In the "src/dist" folder will contain a portable executable file, this file can run on any windows machine that is 10 or later.
