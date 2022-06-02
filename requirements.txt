@@ -1,0 +1,9 @@
+asyncio
+websockets
+pyserial
+aiohttp
+aiohttp-jinja2
+pyinstaller
+psutil
+pypng
+pyqrcode
